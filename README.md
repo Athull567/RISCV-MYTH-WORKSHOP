@@ -8,19 +8,19 @@
 -  Step-by-step processor construction: ALU, Register File, Pipeline
 -  Full 5-stage pipelined RISC-V processor simulation
 
-# 🛠 Tools & Platforms Used
+## 🛠 Tools & Platforms Used
 🖥️ Makerchip IDE — Cloud-based platform for TL-Verilog simulation
 
 🛠️ TL-Verilog — Timing-abstract and transaction-level hardware description
 
 🧰 RISC-V GNU Toolchain
 
-# Learning Objectives
+## Learning Objectives
 1. Understand RISC-V architecture from scratch
 2. Write and debug basic assembly code
 3. Explore RTL design fundamentals and pipeline implementation
 4. Simulate and verify a custom RISC-V processor
 
-# 🙌 Acknowledgements
+## 🙌 Acknowledgements
 Kunal Ghosh – Founder, VSD Corp.
 Steve Hoover – Founder, Redwood EDA 
