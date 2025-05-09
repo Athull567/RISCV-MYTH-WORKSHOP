@@ -1,12 +1,12 @@
 # RISCV-MYTH-WORKSHOP Highlights
 
-- 🔹 Introduction to the RISC-V Instruction Set Architecture (ISA)
-- 🔹 Assembly language programming using RISC-V
-- 🔹 Function calls and memory management using ABI
-- 🔹 Introduction to digital design and logic gates
-- 🔹 Hands-on experience with TL-Verilog and Makerchip IDE
-- 🔹 Step-by-step processor construction: ALU, Register File, Pipeline
-- 🔹 Full 5-stage pipelined RISC-V processor simulation
+-  Introduction to the RISC-V Instruction Set Architecture (ISA)
+-  Assembly language programming using RISC-V
+-  Function calls and memory management using ABI
+-  Introduction to digital design and logic gates
+-  Hands-on experience with TL-Verilog and Makerchip IDE
+-  Step-by-step processor construction: ALU, Register File, Pipeline
+-  Full 5-stage pipelined RISC-V processor simulation
 
 # 🛠 Tools & Platforms Used
 🖥️ Makerchip IDE — Cloud-based platform for TL-Verilog simulation
